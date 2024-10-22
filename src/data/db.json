@@ -1,0 +1,67 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "principal",
+      "email": "principal@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "16eb",
+      "nome": "secundario",
+      "email": "secundario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "45af",
+      "nome": "terciario",
+      "email": "terciario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "86f0",
+      "nome": "quaternario",
+      "email": "quaternario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "5c59",
+      "nome": "quinternario",
+      "email": "quinternario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "a9ec",
+      "nome": "sexternario",
+      "email": "sexternario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "4803",
+      "nome": "setimonario",
+      "email": "setimonario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "be48",
+      "nome": "oiternario",
+      "email": "oiternario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "9",
+      "nome": "nonario",
+      "email": "nonario@gmail.com",
+      "senha": "1234",
+      "tipo": "Administrador"
+    }
+  ]
+}
